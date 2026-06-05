@@ -2,7 +2,12 @@
     "name": "adrian/wackys-eat-drink",
     "description": "Wacky's Eat & Drink PHP Project",
     "require": {
-        "php": ">=7.4",
+        "php": "8.2.*",
         "ext-mysqli": "*"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
     }
 }
