@@ -1,13 +1,5 @@
 {
-    "name": "adrian/wackys-eat-drink",
-    "description": "Wacky's Eat & Drink PHP Project",
     "require": {
-        "php": "^8.1",
         "ext-mysqli": "*"
-    },
-    "config": {
-        "allow-plugins": {
-            "php-http/discovery": true
-        }
     }
 }
