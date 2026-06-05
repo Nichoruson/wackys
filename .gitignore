@@ -1,0 +1,12 @@
+# Environment variables
+.env
+
+# Composer dependencies
+/vendor/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Large SQL dumps (optional: keep if you want it in your portfolio repo)
+# *.sql
