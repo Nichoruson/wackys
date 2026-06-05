@@ -1,0 +1,8 @@
+{
+    "name": "adrian/wackys-eat-drink",
+    "description": "Wacky's Eat & Drink PHP Project",
+    "require": {
+        "php": ">=7.4",
+        "ext-mysqli": "*"
+    }
+}
